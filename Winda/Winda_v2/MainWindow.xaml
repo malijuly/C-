@@ -1,0 +1,21 @@
+﻿<Window x:Class="Winda_v2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Winda_v2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="557" Width="800">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="373" Margin="284,10,0,0" VerticalAlignment="Top" Width="186" Background="#FFECDDE8">
+            <Rectangle x:Name="kwadrat" Fill="#FFEEB8E9" Height="100" Canvas.Left="47" Stroke="Black" Canvas.Top="10" Width="100"/>
+            <Rectangle x:Name="drzwi" Fill="#FFC9366C" Height="90" Canvas.Left="54" Stroke="Black" Canvas.Top="20" Width="87"/>
+            <Button x:Name="Pietro2" Content="2" Canvas.Left="281" Canvas.Top="230" Width="75" Click="Pietro2_Click" Height="60" Background="#FFF3A1E8" FontFamily="3ds Light"/>
+        </Canvas>
+        <Button x:Name="pietro1" Content="1" HorizontalAlignment="Left" Margin="565,305,0,0" VerticalAlignment="Top" Width="75" Click="Pietro1_Click" Height="60" Background="#FFFFA0F2" FontFamily="3ds Light"/>
+        <Button x:Name="Pietro3" Content="3" HorizontalAlignment="Left" Margin="565,180,0,0" VerticalAlignment="Top" Width="75" Click="Pietro3_Click" Height="53" Background="#FFF5A6EB" FontFamily="3ds Light"/>
+        <Label x:Name="label1" Content="PIĘTRO 3" HorizontalAlignment="Left" Margin="565,55,0,0" VerticalAlignment="Top" Background="#FFE08ECA"/>
+        <Label x:Name="label2" Content="" HorizontalAlignment="Left" Height="65" Margin="195,90,0,0" VerticalAlignment="Top" Width="65"/>
+
+    </Grid>
+</Window>
