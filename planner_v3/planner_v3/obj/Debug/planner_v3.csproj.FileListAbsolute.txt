@@ -1,0 +1,10 @@
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\bin\Debug\planner_v3.exe.config
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\bin\Debug\planner_v3.exe
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\bin\Debug\planner_v3.pdb
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\obj\Debug\planner_v3.csprojAssemblyReference.cache
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\obj\Debug\planner_v3.Form1.resources
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\obj\Debug\planner_v3.Properties.Resources.resources
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\obj\Debug\planner_v3.csproj.GenerateResource.cache
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\obj\Debug\planner_v3.csproj.CoreCompileInputs.cache
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\obj\Debug\planner_v3.exe
+C:\Users\mlipi\source\repos\planner_v3\planner_v3\obj\Debug\planner_v3.pdb
